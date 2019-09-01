@@ -132,4 +132,4 @@ A sample json will be created on the first run of simple-torrent.
 * `UploadRate`/`DownloadRate` The global speed limiter, a fixed level amoung `Low`(~50k/s), `Medium`(~500k/s) and `High`(~1500k/s) is accepted as value, all other values (or empty) will result in unlimited rate.
 * `TrackerListURL`: A https URL to a trackers list, this option is design to retrive public trackers from [ngosang/trackerslist](https://github.com/ngosang/trackerslist). If configred, all trackers will be added to each torrent task.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vijay62/skam/tree/master)
